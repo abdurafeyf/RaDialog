@@ -43,7 +43,7 @@ Conversational AI tools that can generate and discuss clinically correct radiolo
 - Reinstall correct versions of torch and transformers with `pip install torch==1.13.0 transformers==4.28.1`
 - Install java and set JAVA_HOME and PATH in local_config.py (we used jre1.8.0)
 
-#### 2) CheXbert Environment
+#### 3) CheXbert Environment
 - Install the CheXbert environment with `conda create --name chexbert python=3.7`
 - Activate the environment with `conda activate chexbert`
 - Move to the chexbert directory with `cd chexbert`
