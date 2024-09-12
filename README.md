@@ -33,7 +33,7 @@ Conversational AI tools that can generate and discuss clinically correct radiolo
 - Install java and set JAVA_HOME and PATH in local_config.py (we used jre1.8.0)
 
 
-#### 1) RaDialog Environment (For MacOS)
+#### 2) RaDialog Environment (For MacOS)
 - clone this repository and move to the radialog directory with `cd RaDialog`
 - softwareupdate --install-rosetta
 - Install the RaDialog environment with `CONDA_SUBDIR=osx-64 conda create --name radialog python=3.7 -c conda-forge`
